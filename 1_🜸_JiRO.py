@@ -96,6 +96,6 @@ with tab2:
         unsafe_allow_html=True
     )
         st.write(
-        "<p style='text-align:right;'>made with streamlit</p>",
+        "<p style='text-align:right;'>(학번: 10320) made with streamlit</p>",
         unsafe_allow_html=True
     )
