@@ -39,7 +39,7 @@ tab1, tab2= st.tabs(["introduction", "patch notes"])
 
 with tab1:
     
-    st.write("※ This was created for a school assignment.")
+    st.write("※ This was created for a school assignment. (10320)")
     col1, col2 = st.columns([0.7, 0.3])
 
     with col1:
