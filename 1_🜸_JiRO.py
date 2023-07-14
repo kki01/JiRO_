@@ -34,6 +34,7 @@ dec_image2 = Image.open("dec_image2.png")
 ###########################################################################################################
 
 st.image(logo) # 타이틀
+st.write("※ This was created for a school assignment.")
 
 tab1, tab2= st.tabs(["introduction", "patch notes"])
 
