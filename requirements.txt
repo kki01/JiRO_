@@ -1,4 +1,4 @@
-streamlit==0.88.0
+streamlit==1.24.1
 boto3==1.18.11
 gspread==4.0.1
 google-auth==2.6.0
