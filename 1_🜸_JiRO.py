@@ -34,11 +34,12 @@ dec_image2 = Image.open("dec_image2.png")
 ###########################################################################################################
 
 st.image(logo) # 타이틀
-st.write("※ This was created for a school assignment.")
 
 tab1, tab2= st.tabs(["introduction", "patch notes"])
 
 with tab1:
+    
+    st.write("※ This was created for a school assignment.")
     col1, col2 = st.columns([0.7, 0.3])
 
     with col1:
